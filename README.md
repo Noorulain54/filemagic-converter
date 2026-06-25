@@ -22,7 +22,7 @@
 
 ## 🚀 Live Demo
 
-**Try it now:** https://Noorulain54.github.io/filemagic-converter/
+**Try it now: https://Noorulain54.github.io/filemagic-converter/
 
 ## 🛠️ How to Use
 
