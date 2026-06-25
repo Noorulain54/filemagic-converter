@@ -2,7 +2,8 @@
 
 > **Free, browser-based file conversion tool. Your files never leave your computer.**
 
-![FileMagic Screenshot](https://via.placeholder.com/800x400?text=FileMagic+Converter+Preview)
+<img width="1920" height="2119" alt="screencapture-noorulain54-github-io-filemagic-converter-2026-06-26-00_19_24" src="https://github.com/user-attachments/assets/f372c09e-ebe1-4e3d-a772-6568aaf88654" />
+
 
 ## ✨ Features
 
@@ -21,7 +22,7 @@
 
 ## 🚀 Live Demo
 
-**Try it now:** [https://Noorulain54.github.io/filemagic-converter/](https://yourusername.github.io/filemagic-converter/)
+**Try it now:** https://Noorulain54.github.io/filemagic-converter/(https://yourusername.github.io/filemagic-converter/)
 
 ## 🛠️ How to Use
 
